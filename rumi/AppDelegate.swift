@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         print("sda33434")
+        print("karthik")
+        
         return true
     }
 
