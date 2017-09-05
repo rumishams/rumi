@@ -14,12 +14,8 @@ class ViewController: UIViewController {
     {
         super.viewDidLoad()
         
-        print("rumi3434343")
-        print("qq")
-        
-         print("branch")
-         print("branch2")
-         print("branch3")
+        print("osho")
+      
         
         
         // Do any additional setup after loading the view, typically from a nib.
